@@ -1,0 +1,5 @@
+# Publish only the three-file study. Preserve existing local work and data.
+/*
+!/.gitignore
+!/README.md
+!/main.ipynb
